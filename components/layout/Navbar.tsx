@@ -20,7 +20,7 @@ export default function Navbar() {
           href="/"
           className="text-sm font-semibold tracking-[0.2em] uppercase"
         >
-          3D / DEV
+          junior 3d artist
         </Link>
 
         <nav className="hidden items-center gap-8 md:flex">
